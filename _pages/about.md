@@ -1,13 +1,31 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Huijie Zhang – Satellite Network & Network Telemetry Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+This is the personal academic website of  Huijie Zhang.
+I am a graduate researcher in the field of **communication engineering and satellite communications**, currently focusing on **LEO satellite network measurement, telemetry systems, and intelligent network management**.
+I am affiliated with Nanjing University, where I work under the supervision of Kanglian Zhao.
+
+My research interests lie in designing efficient and intelligent mechanisms for large-scale, highly dynamic satellite networks. In particular, I focus on how to improve the observability, freshness, and interpretability of network state information under highly dynamic conditions.
+
+My work combines network measurement, optimization, and data-driven intelligence to support next-generation LEO satellite network systems.
+
+Research Interests
+- LEO satellite network architecture and system design  
+- In-band network telemetry (INT/IOAM) and network measurement  
+- Path-aware probing and active measurement in dynamic networks  
+- Semantic-driven network state modeling and intelligent O&M  
+
+Selected Achievements
+- Two invention patents (authorized)
+- Challenge Cup Gold Award
+- Research work in satellite network measurement and optimization (ongoing submissions)
+- Multiple project participations in network telemetry and intelligent systems
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
