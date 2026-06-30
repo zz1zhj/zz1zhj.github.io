@@ -9,7 +9,7 @@ redirect_from:
 
 This is the personal academic website of  Huijie Zhang.
 I am a graduate researcher in the field of **communication engineering and satellite communications**, currently focusing on **LEO satellite network measurement, telemetry systems, and intelligent network management**.
-I am affiliated with Nanjing University, where I work under the supervision of Kanglian Zhao.
+I am affiliated with Nanjing University(https://www.nju.edu.cn/), where I work under the supervision of Prof.Kanglian Zhao(https://ese.nju.edu.cn/zkl_23955/list.htm).
 
 My research interests lie in designing efficient and intelligent mechanisms for large-scale, highly dynamic satellite networks. In particular, I focus on how to improve the observability, freshness, and interpretability of network state information under highly dynamic conditions.
 
@@ -27,7 +27,7 @@ Selected Achievements
 - Research work in satellite network measurement and optimization (ongoing submissions)
 - Multiple project participations in network telemetry and intelligent systems
 
-A flow-aware in-situ detection method for space networks.
+A flow-aware in-situ detection method for space networks.(https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
 ======
 The present invention discloses an in-situ space flow telemetry method (in-Situ Space Flow Telemetry, iSFT), which performs real-time data collection and monitoring in space networks. The method mainly includes the following steps:
 
@@ -39,7 +39,7 @@ In addition, a sampling-template-based mechanism is adopted to instruct each nod
 
 Finally, a method is introduced for inserting the in-situ telemetry option header between the UDP/TCP header and the payload of the original packet for transmission.
 
-A packet path tracing method for satellite networks.
+A packet path tracing method for satellite networks.(https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)
 ======
 The present invention discloses a packet path tracing method for satellite networks. The method realizes packet path tracing in a dynamic satellite network by utilizing the flow label in the IPv6 packet header. A unique flow identifier is assigned to each traffic flow by mapping the flow label of the packet, and this identifier is mapped into the IPv6 header flow label and written into the in-band telemetry header. At each satellite node, the flow is identified through the flow label, and metadata is collected. The telemetry data is then transmitted to an in-band telemetry collection module.
 
