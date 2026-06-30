@@ -30,9 +30,13 @@ Selected Achievements
 A flow-aware in-situ detection method for space networks.
 ======
 The present invention discloses an in-situ space flow telemetry method (in-Situ Space Flow Telemetry, iSFT), which performs real-time data collection and monitoring in space networks. The method mainly includes the following steps:
+
 First, a compression method for in-situ telemetry data is proposed, in which both in-band Operations, Administration, and Maintenance (OAM) option headers and metadata are compressed to obtain a compact in-situ telemetry option header and metadata. Compared with RFC-standard approaches, this method saves memory resources more efficiently.
+
 Second, the Flow Label field in the IPv6 header is used to determine node types and identify sampled packets, achieving accurate, efficient, and resource-saving detection.
+
 In addition, a sampling-template-based mechanism is adopted to instruct each node to collect in-situ telemetry metadata. The collected telemetry metadata is classified into three categories—packet loss, latency, and congestion—with a total of eight sampling templates.
+
 Finally, a method is introduced for inserting the in-situ telemetry option header between the UDP/TCP header and the payload of the original packet for transmission.
 
 A packet path tracing method for satellite networks.
